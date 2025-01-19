@@ -3,7 +3,7 @@ import asyncio
 import uvicorn
 import json
 from fastapi import FastAPI, Query, HTTPException
-from typing import List, Dict
+from typing import List
 from contextlib import asynccontextmanager
 from pydantic import BaseModel
 from datetime import datetime
