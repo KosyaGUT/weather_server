@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "username": "Коля",
+        "cities": [
+            {
+                "city_name": "Лондон",
+                "latitude": 51.0,
+                "longitude": 0.0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "username": "test_user",
+        "cities": []
+    },
+    {
+        "id": 3,
+        "username": "test_user2",
+        "cities": [
+            {
+                "city_name": "New York",
+                "latitude": 40.7128,
+                "longitude": -74.006
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "username": "test_user3",
+        "cities": [
+            {
+                "city_name": "New York",
+                "latitude": 40.7128,
+                "longitude": -74.006
+            }
+        ]
+    }
+]
